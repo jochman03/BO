@@ -13,7 +13,6 @@ This repository contains a set of exercises and implementations developed as par
 ## Technologies Used
 
 - Python 3  
-- PuLP (LP/MILP modeling)  
 - NetworkX (graph algorithms)  
 - Matplotlib (visualization)  
 - NumPy
