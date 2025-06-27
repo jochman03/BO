@@ -19,8 +19,8 @@ This repository contains a set of exercises and implementations developed as par
 
 ## Problem Descriptions
 
-### 🧪 Lab 2 – Graph Algorithms: Representation and BFS  
+###  Lab 2 – Graph Algorithms: Representation and BFS  
 Implemented graph representations (adjacency matrix and adjacency list) and performed Breadth-First Search (BFS) to explore reachable nodes from a given starting point. Used Python data structures and visualized traversal steps.
 
-### 🧪 Lab 3 – Minimum Spanning Tree: Dijkstra-Prims Algorithm (DPA)  
+###  Lab 3 – Minimum Spanning Tree: Dijkstra-Prims Algorithm (DPA)  
 Constructed a Minimum Spanning Tree (MST) using a variation of Prim's algorithm often referred to as Dijkstra-Prims Algorithm (DPA). Implemented on weighted undirected graphs and compared tree costs. Focused on maintaining a priority queue and updating the MST incrementally.
