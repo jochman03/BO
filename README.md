@@ -24,3 +24,12 @@ Implemented graph representations (adjacency matrix and adjacency list) and perf
 
 ###  Lab 3 – Minimum Spanning Tree: Dijkstra-Prims Algorithm (DPA)  
 Constructed a Minimum Spanning Tree (MST) using a variation of Prim's algorithm often referred to as Dijkstra-Prims Algorithm (DPA). Implemented on weighted undirected graphs and compared tree costs. Focused on maintaining a priority queue and updating the MST incrementally.
+
+### Lab 4 – A* Search Algorithm
+Implemented the A* pathfinding algorithm on graph structures. Used heuristic functions to guide the search and optimized traversal from source to target. Compared path costs and explored impact of heuristic accuracy.
+
+### Lab 6 – Traveling Salesman Problem (G-TSP)
+Implemented a greedy algorithm for the Generalized Traveling Salesman Problem (G-TSP). The algorithm sorts all edges by increasing weight and adds them one by one, ensuring that no cycles are formed during the construction of the tour.
+
+### Lab 7 – PERT Algorithm
+Implemented the Program Evaluation and Review Technique (PERT) for project scheduling. Modeled tasks as edges and events as vertices to compute earliest and latest start times, detect critical paths, and visualize project timelines.
