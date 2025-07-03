@@ -33,3 +33,12 @@ Implemented a greedy algorithm for the Generalized Traveling Salesman Problem (G
 
 ### Lab 7 – PERT Algorithm
 Implemented the Program Evaluation and Review Technique (PERT) for project scheduling. Modeled tasks as edges and events as vertices to compute earliest and latest start times, detect critical paths, and visualize project timelines.
+
+### Lab 9 – Job Scheduling Problem
+Implemented Johnson’s algorithm for two-machine job scheduling to minimize the total completion time. Extended the approach using the CDS (Campbell, Dudek, and Smith) heuristic for flow shop scheduling with more than two machines.
+
+### Lab 10 – Dynamic Programming: Integer Linear Knapsack Problem
+Implemented a dynamic programming algorithm for the integer (unbounded) knapsack problem. Solved a linear optimization task with integer decision variables to maximize total value under capacity constraints, allowing multiple instances of each item.
+
+### Lab 11 – Dynamic Programming: Optimal Lot Sizing Problem
+Implemented a dynamic programming algorithm to solve the lot sizing problem, determining the optimal production batch sizes over a planning horizon. The goal was to minimize total costs including setup and holding costs, while meeting demand in each period.
